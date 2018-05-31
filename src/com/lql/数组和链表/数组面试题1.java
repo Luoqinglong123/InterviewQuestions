@@ -1,6 +1,5 @@
 package com.lql.数组和链表;
 
-import org.omg.PortableInterceptor.INACTIVE;
 
 import java.util.HashMap;
 import java.util.Map;
